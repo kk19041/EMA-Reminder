@@ -8,13 +8,17 @@ The core of this application is the integration between Power Automation and Twi
 
 Here is the reminder for all of the next day events:
 
-<img src="E:\UoB\IndividualProject\Brand\EMA-Reminder\sms_tomorrow.jpg" alt="sms_tomorrow" style="zoom:25%;" />
+<img src="https://github.com/kk19041/EMA-Reminder/blob/main/sms_tomorrow.jpg" alt="sms_tomorrow" style="zoom:25%;" />
 
 The reminder for upcoming event in user's calendar, also asked the attendance after the event finish:
 
-<img src="E:\UoB\IndividualProject\Brand\EMA-Reminder\sms_reminder.jpg" alt="sms_reminder" style="zoom: 25%;" />
+<img src="https://github.com/kk19041/EMA-Reminder/blob/main/sms_reminder.jpg" alt="sms_reminder" style="zoom: 25%;" />
 
 Here is the weekly summary of the user's attendance：
 
-<img src="E:\UoB\IndividualProject\Brand\EMA-Reminder\sms_weekly.jpg" alt="sms_weekly" style="zoom:25%;" />
+<img src="https://github.com/kk19041/EMA-Reminder/blob/main/sms_weekly.jpg" alt="sms_weekly" style="zoom:25%;" />
+
+
+
+
 
